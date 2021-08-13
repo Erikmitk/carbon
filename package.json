@@ -43,7 +43,7 @@
     "match-sorter": "^5.0.0",
     "morphmorph": "^0.1.3",
     "ms": "^2.1.2",
-    "next": "^10.0.0",
+    "next": "^11.1.0",
     "next-offline": "^5.0.2",
     "prettier": "^2.1.2",
     "react": "^17.0.1",
